@@ -22,7 +22,6 @@ class Arithematic
     {
         return no1+no2;
     }
-    
 
     int Substraction()
     {
